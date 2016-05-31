@@ -13,7 +13,7 @@ cd mm-modules
 npm install
 ./node_modules/.bin/gulp watch
 ```
-3. 使用浏览器打开./dist/index.html，打开浏览器控制台，您会发现*mm-modules*已经正常运作
+3. 使用浏览器打开./dist/index.html，打开浏览器控制台，您会发现**mm-modules**已经正常运作
 
 ### 进一步开发
 
