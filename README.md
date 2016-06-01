@@ -25,3 +25,11 @@ npm install
 ### 原理
 
 1. ./mm-modules文件夹下的模块文件，最终都会被gulp打包起来，不过请放心，模块的依赖会自动理清楚的，^_^
+
+### 已有模块
+
+* util.js，各类工具函数集合
+* request.js，网络请求相关的函数
+* queryObject.js，对url查询字符串的相关处理，<https://github.com/fernandofleury/query-object>
+* template.js，轻量高效的js模版引擎，<https://github.com/aui/artTemplate>
+* test.js，测试模块
